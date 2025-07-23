@@ -1,25 +1,10 @@
 # FlexTracker
 
 <div align="center">
-    <img src="public/images/logo.png?raw=true" alt="FlexTracker Logo" height="140" />
+    <img src="logo.png?raw=true" alt="FlexTracker Logo" height="140" />
     <h3>A mobile-first PWA for tracking your fitness journey</h3>
     <p>Create, manage, and track your fitness routines with a seamless app-like experience on any device.</p>
 </div>
-
-<p align="center">
-    <a href="https://github.com/HarrisFauntleroy/fitness/actions">
-        <img alt="Build Status" src="https://img.shields.io/github/checks-status/HarrisFauntleroy/fitness/main">
-    </a>
-    <a href="/LICENSE.md">
-        <img alt="License: MIT" src="https://img.shields.io/github/license/HarrisFauntleroy/fitness">
-    </a>
-    <a href="https://github.com/HarrisFauntleroy/fitness/commits">
-        <img alt="Last Commit" src="https://img.shields.io/github/last-commit/HarrisFauntleroy/fitness">
-    </a>
-    <a href="https://github.com/HarrisFauntleroy/fitness/issues">
-        <img alt="Issues" src="https://img.shields.io/github/issues/HarrisFauntleroy/fitness">
-    </a>
-</p>
 
 ## ✨ Features
 
