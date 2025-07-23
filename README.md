@@ -1,5 +1,3 @@
-# FlexTracker
-
 <div align="center">
     <img src="logo.png?raw=true" alt="FlexTracker Logo" height="140" />
     <h3>A mobile-first PWA for tracking your fitness journey</h3>
